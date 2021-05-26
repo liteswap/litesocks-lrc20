@@ -2,7 +2,7 @@
 
 #### Requires [Python 3](https://www.python.org/download/releases/3.0/)
 
-1) Clone Uniswap
+1) Clone Liteswap
 ```
 $ git clone https://github.com/Uniswap/unisocks-erc20
 $ cd unisocks-erc20
